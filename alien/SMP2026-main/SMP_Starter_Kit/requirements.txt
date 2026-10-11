@@ -1,0 +1,7 @@
+requests
+networkx
+zhipuai
+sniffio
+Jinja2
+chromadb>=0.5.0
+mesa==2.4.0
