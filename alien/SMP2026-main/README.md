@@ -16,7 +16,7 @@ SMP_Starter_Kit/
 ├── 📄 zhipu.py               # 【系统工具】智谱大模型 API 接口封装
 ├── 📁 custom_seeds/          # 【系统工具】存放本地测试的网络图 JSON
 │
-└── 📁 team_submission/       # 🎯【核心工作区】您需要修改并最终打包提交的代码文件夹！
+└── 📁 team_submission/       # 🎯【核心工作区】您需要修改并最终打包提交的代码åå文件夹！
     ├── config.json           # 参赛者的智能体角色配置文件
     ├── 📁 prompt/            # 各智能体的大语言模型提示词模板
     └── starnet_model.py      # CaseVO 主控逻辑代码（类名必须为 ParticipantSquadModel）
